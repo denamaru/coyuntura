@@ -14,7 +14,7 @@ h1 {
    font-size: 35px;
    line-height: normal;
    color: #2e609b;
-   font-family: 'Montserrat', sans-serif;
+   font-family: 'Lora', serif;
    font-weight: 700;
    }
 
@@ -22,22 +22,22 @@ h2 {
    font-size: 30px;
    line-height: normal;
    color: #2e609b;
-   font-family: 'Montserrat', sans-serif;
-   font-weight: 700;
+   font-family: 'Lora', serif;
+   font-weight: 600;
    }
 
 h3 {
    font-size: 25px;
    line-height: normal;
    color: #a21546;
-   font-family: 'Montserrat', sans-serif;
-   font-weight: 600;
+   font-family: 'Lora', serif;
+   font-weight: 500;
    }
 h4 {
    font-size: 20px;
    line-height: normal;
    color: #a974c9;
-   font-family: 'Montserrat', sans-serif;
+   font-family: 'Lora', serif;
    font-weight: 500;
    }
 
@@ -119,8 +119,4 @@ footer {
   .espacio{
     padding-top: 20px;
     padding-bottom: 20px;
-  }
-
-  .greenmark{
-    background-color: greenyellow;
   }
