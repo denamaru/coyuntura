@@ -1,0 +1,126 @@
+
+body {
+  width: 100%;
+  max-width: 900px;
+  margin: 20px auto;
+  text-align: justify;
+}
+/*--body {
+     margin:25px 50px 75px;
+     padding:20px;
+     } */
+
+h1 {
+   font-size: 35px;
+   line-height: normal;
+   color: #2e609b;
+   font-family: 'Montserrat', sans-serif;
+   font-weight: 700;
+   }
+
+h2 {
+   font-size: 30px;
+   line-height: normal;
+   color: #2e609b;
+   font-family: 'Montserrat', sans-serif;
+   font-weight: 700;
+   }
+
+h3 {
+   font-size: 25px;
+   line-height: normal;
+   color: #a21546;
+   font-family: 'Montserrat', sans-serif;
+   font-weight: 600;
+   }
+h4 {
+   font-size: 20px;
+   line-height: normal;
+   color: #a974c9;
+   font-family: 'Montserrat', sans-serif;
+   font-weight: 500;
+   }
+
+p {
+  font-size: 20px;
+  line-height: normal;
+  color: #122c4a;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  }
+
+figcaption, details {
+  font-size: 20px;
+  line-height: normal;
+  color: #122c4a;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  margin-left: 20px;
+  margin-right: 20px;
+  }
+
+ol, ul {
+  font-size: 20px;
+  line-height: normal;
+  color: #122c4a;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  }
+
+table, th, td {
+  line-height:normal ;
+  font-size: 20px;
+  border: 1px solid #122c4a;
+  border-collapse: collapse;
+  color: #122c4a;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  }
+footer {
+  width: 100%;
+  max-width: 900px;
+  border: 1px solid #122c4a;
+  color: #122c4a;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  text-align: center;
+  background-color: #a8bdd4;
+  }
+
+  blockquote{
+    font-size: 20px;
+    line-height: normal;
+    color: #122c4a;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  img, figure {
+    max-width: 900px;
+  }
+  
+  .verticalLine {
+          border-left: 4px solid #b5191a;
+          background-color: #ececec;
+          padding-top: 10px;
+          padding-bottom: 10px;
+        }
+  
+  center {
+    font-size: 18px;
+    line-height: normal;
+    color: #122c4a;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+  }
+  .espacio{
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  .greenmark{
+    background-color: greenyellow;
+  }
