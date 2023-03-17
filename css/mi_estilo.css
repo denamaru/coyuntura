@@ -88,7 +88,7 @@ footer {
   background-color: #a8bdd4;
   }
 
-  blockquote{
+blockquote{
     font-size: 20px;
     line-height: normal;
     color: #122c4a;
@@ -98,25 +98,27 @@ footer {
     font-weight: 400;
     font-style: italic;
   }
-  img, figure {
+
+img, figure {
     max-width: 900px;
   }
   
-  .verticalLine {
+.verticalLine {
           border-left: 4px solid #b5191a;
           background-color: #ececec;
           padding-top: 10px;
           padding-bottom: 10px;
         }
   
-  center {
+center {
     font-size: 18px;
     line-height: normal;
     color: #122c4a;
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
   }
-  .espacio{
+
+.espacio{
     padding-top: 20px;
     padding-bottom: 20px;
   }
