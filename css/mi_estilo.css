@@ -10,6 +10,8 @@ header {
   background-color: #003B73;
   margin-left: auto;
   margin-right: auto;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 
 nav {
@@ -17,25 +19,19 @@ nav {
   background-color: #60A3D9;
   margin-left: auto;
   margin-right: auto;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 
 main {
-  max-width: 80%;
+  width: 80%;
   background-color: #BFD7ED;
   margin-left: auto;
-  margin-right: auto;  
-}
-
-article {
-  max-width: 90%;
-  margin-left: auto;
   margin-right: auto;
+  padding-top: 15px;
+  padding-bottom: 15px;  
 }
 
-section {
-  padding-left: 40px;
-  padding-right: 40px;
-}
 
 footer {
   max-width: 80%;
@@ -45,7 +41,17 @@ footer {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px; 
   }
+
+/*Organización de los contenidos*/
+
+article {
+  max-width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 /*Alineacion de elementos*/
 .imagen {
@@ -68,11 +74,6 @@ center {
   font-weight: 300;
 }
 
-.espacio{
-  padding-top: 20px;
-  padding-bottom: 20px;
-}
-  
 /*Formato de texto*/
 
 h1 {
@@ -118,16 +119,6 @@ p {
 ol, ul {
   font-size: 20px;
   line-height: normal;
-  color: #122c4a;
-  font-family: 'Roboto', sans-serif;
-  font-weight: 400;
-  }
-
-table, th, td {
-  line-height:normal ;
-  font-size: 20px;
-  border: 1px solid #122c4a;
-  border-collapse: collapse;
   color: #122c4a;
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
