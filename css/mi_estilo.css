@@ -3,6 +3,9 @@
 body {
   /*background-color: #14202E;*/
   background-image: url(https://tinypic.host/images/2023/03/19/img_background.jpg);
+  background-repeat: repeat;
+  background-attachment: fixed;
+  padding: 20px;
 }
 
 header {
@@ -10,8 +13,6 @@ header {
   background-color: #003B73;
   margin-left: auto;
   margin-right: auto;
-  padding-top: 15px;
-  padding-bottom: 15px;
 }
 
 nav {
@@ -19,8 +20,8 @@ nav {
   background-color: #60A3D9;
   margin-left: auto;
   margin-right: auto;
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 main {
@@ -28,8 +29,8 @@ main {
   background-color: #BFD7ED;
   margin-left: auto;
   margin-right: auto;
-  padding-top: 15px;
-  padding-bottom: 15px;  
+  padding-top: 10px;
+  padding-bottom: 10px;  
 }
 
 
@@ -41,8 +42,8 @@ footer {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   text-align: center;
-  padding-top: 15px;
-  padding-bottom: 15px; 
+  padding-top: 10px;
+  padding-bottom: 10px; 
   }
 
 /*Organización de los contenidos*/
@@ -115,6 +116,25 @@ p {
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
   }
+
+/*Enlaces*/
+
+a {
+  color: #003B73;
+}
+
+a:hover {
+  color: #C35851;
+}
+
+a:active {
+  color: #FFD53D;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
 
 ol, ul {
   font-size: 20px;
