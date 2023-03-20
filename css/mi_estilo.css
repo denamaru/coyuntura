@@ -54,13 +54,27 @@ article {
   margin-right: auto;
 }
 
+section {
+  
+}
+
+/*Imágenes*/
+
+.pantalla {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
 /*Alineacion de elementos*/
 .imagen {
-  width: 29%;
+  width: 40%;
 }
 
 .texto {
-  width: 69%;
+  width: 60%;
 }
 
 .item div{
@@ -92,6 +106,8 @@ h2 {
    color: #003B73;
    font-family: 'Montserrat', sans-serif;
    font-weight: 600;
+   margin-top: 40px;
+   margin-bottom: 0px;
    }
 
 h3 {
@@ -100,6 +116,7 @@ h3 {
    color: #0074B7;
    font-family: 'Montserrat', sans-serif;
    font-weight: 500;
+   margin-left: 10px;
    }
 h4 {
    font-size: 20px;
@@ -115,6 +132,7 @@ p {
   color: #003B73;
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
+  margin-left: 10px;
   }
 
 /*Enlaces*/
