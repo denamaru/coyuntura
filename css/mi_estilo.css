@@ -63,8 +63,8 @@ section {
 .pantalla {
   display: block;
   width: 100%;
-  max-width: 300px;
-  height: 200px;
+  max-width: 350px;
+  height: 350px;
   object-fit: cover;
   border-radius: 10px;
 }
