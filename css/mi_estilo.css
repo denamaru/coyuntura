@@ -92,14 +92,28 @@ center {
 
 /*Formato de texto*/
 
-h1 {
+.titular {
    font-size: 70px;
-   line-height: normal;
    color: #FFD53D;
    font-family: 'Playfair Display', serif;
    font-weight: 900;
    text-align: center;
+   margin-bottom: 0;
    }
+
+.subtitulo {
+  font-size: 30px;
+  color: #BFD7ED;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-style: italic;
+  text-align: center;
+  margin-top: 0;
+  padding-top: 5px;
+  padding-bottom: 20px;
+  text-transform: uppercase;
+  }
+
 
 h2 {
    font-size: 30px;
