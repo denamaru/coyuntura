@@ -64,7 +64,7 @@ section {
   display: block;
   width: 100%;
   max-width: 350px;
-  height: 350px;
+  height: 300px;
   object-fit: cover;
   border-radius: 10px;
 }
@@ -80,6 +80,8 @@ section {
 
 .item div{
   display: inline-block;
+  vertical-align: middle;
+  margin-bottom: 20px;
 }
   
 center {
